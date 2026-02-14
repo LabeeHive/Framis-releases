@@ -2,7 +2,9 @@
 
 Zone-first window management for macOS.
 
-<!-- TODO: Demo GIF -->
+<p align="center">
+  <img src="demo.gif" alt="Framis demo: Click a zone, pick a window" width="720">
+</p>
 
 ## What is Framis?
 
